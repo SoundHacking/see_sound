@@ -3,7 +3,10 @@ a web app framework to see the sound in different forms
 
 # demo
 https://soundhacking.github.io/see_sound/
-# links
+
+<img src="./media/wave_freq.png" width=800>
+
+# References
 * [Webaudio tutorial](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
 * [Web Audio API - W3C spec](https://www.w3.org/TR/webaudio/)
 * [Visualizations with Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API)
